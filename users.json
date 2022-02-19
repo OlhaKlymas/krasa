@@ -1,0 +1,184 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "user": {
+                "firstName": "Юлія",
+                "lastName": "Квітко"
+            },
+            "category": {"id": 1, "title": "нігтьовий сервіс"},
+            "description": "Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора",
+            "currentRating": 4,
+            "distance": 1.5,
+            "address": "вул. Полярна, 3, Київ, 02000",
+            "medias": {
+                "thumb": {
+                    "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                    "alt": "smth"
+                },
+                "gallery": [
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "user": {
+                "firstName": "Анастасія",
+                "lastName": "Квітко"
+            },
+            "category": {"id": 1, 'title': "нігтьовий сервіс"},
+            "description": "Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора",
+            "currentRating": 4,
+            "distance": 1.5,
+            "address": "вул. Полярна, 3, Київ, 02000",
+            "medias": {
+                "thumb": {
+                    "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                    "alt": "smth"
+                },
+                "gallery": [
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "user": {
+                "firstName": "Світлана",
+                "lastName": "Квітко"
+            },
+            "category": {"id": 1, "title": "нігтьовий сервіс"},
+            "description": "Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора",
+            "currentRating": 4,
+            "distance": 1.5,
+            "address": "вул. Полярна, 3, Київ, 02000",
+            "medias": {
+                "thumb": {
+                    "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                    "alt": "smth"
+                },
+                "gallery": [
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "user": {
+                "firstName": "Катерина",
+                "lastName": "Квітко"
+            },
+            "category": {"id": 1, "title": "нігтьовий сервіс"},
+            "description": "Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора",
+            "currentRating": 4,
+            "distance": 1.5,
+            "address": "вул. Полярна, 3, Київ, 02000",
+            "medias": {
+                "thumb": {
+                    "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                    "alt": "smth"
+                },
+                "gallery": [
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "user": {
+                "firstName": "Тетяна",
+                "lastName": "Квітко"
+            },
+            "category": {"id": 1, "title": "нігтьовий сервіс"},
+            "description": "Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора  Опис від автора Опис від автора",
+            "currentRating": 4,
+            "distance": 1.5,
+            "address": "вул. Полярна, 3, Київ, 02000",
+            "medias": {
+                "thumb": {
+                    "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                    "alt": "smth"
+                },
+                "gallery": [
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    },
+                    {
+                        "url": "https://news-intime.ru/wp-content/uploads/2018/12/goluboj-manikjur.jpg",
+                        "alt": "smth"
+                    }
+                ]
+            }
+        }
+    ]
+}
